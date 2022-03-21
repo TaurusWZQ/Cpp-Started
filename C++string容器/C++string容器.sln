@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++string容器", "C++string容器\C++string容器.vcxproj", "{864C95D4-FFC8-4C95-B9B9-AEB4D35D3023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{864C95D4-FFC8-4C95-B9B9-AEB4D35D3023}.Debug|x64.ActiveCfg = Debug|x64
+		{864C95D4-FFC8-4C95-B9B9-AEB4D35D3023}.Debug|x64.Build.0 = Debug|x64
+		{864C95D4-FFC8-4C95-B9B9-AEB4D35D3023}.Debug|x86.ActiveCfg = Debug|Win32
+		{864C95D4-FFC8-4C95-B9B9-AEB4D35D3023}.Debug|x86.Build.0 = Debug|Win32
+		{864C95D4-FFC8-4C95-B9B9-AEB4D35D3023}.Release|x64.ActiveCfg = Release|x64
+		{864C95D4-FFC8-4C95-B9B9-AEB4D35D3023}.Release|x64.Build.0 = Release|x64
+		{864C95D4-FFC8-4C95-B9B9-AEB4D35D3023}.Release|x86.ActiveCfg = Release|Win32
+		{864C95D4-FFC8-4C95-B9B9-AEB4D35D3023}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B2120C2-1A49-4982-9655-BF981420D22A}
+	EndGlobalSection
+EndGlobal
